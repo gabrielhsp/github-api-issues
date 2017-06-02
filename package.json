@@ -1,0 +1,22 @@
+{
+  "name": "github-api-issues",
+  "version": "1.0.0",
+  "description": "List, create, edit and unlock issues from a github repo using de REST API V3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Henrique (@gabrielhsp)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^2.6.1"
+  }
+}
